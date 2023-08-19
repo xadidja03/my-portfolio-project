@@ -17,7 +17,7 @@
 **Project Name:** My Portfolio
 
 **Description:**
-Welcome to my portfolio repository! This project showcases my skills, experiences, and projects I've worked on. As a passionate [your field/industry] enthusiast, I've created this portfolio to provide an overview of my journey and capabilities.
+Welcome to my portfolio repository! This project showcases my skills, experiences, and projects I've worked on. As a passionate java software developer enthusiast, I've created this portfolio to provide an overview of my journey and capabilities.
 
 **Key Features:**
 - **About Me:** Learn more about me, my background, and what drives my passion for [your field/industry].
